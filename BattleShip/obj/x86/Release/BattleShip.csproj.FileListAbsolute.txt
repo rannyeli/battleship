@@ -1,0 +1,270 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\BattleShip\obj\x86\Release\BattleShip.pdb
+F:\BattleShip\BattleShip\obj\x86\Release\BattleShip.exe
+F:\BattleShip\BattleShip\obj\x86\Release\BattleShip.pdb
+F:\פרוייקט מחשבים\BattleShip\BattleShip\bin\Release\BattleShip.exe
+F:\פרוייקט מחשבים\BattleShip\BattleShip\bin\Release\BattleShip.pdb
+F:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+F:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+F:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+F:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Instruction.resources
+F:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+F:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+F:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.exe
+F:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+D:\פרוייקט מחשבים\BattleShip\BattleShip\bin\Release\BattleShip.exe
+D:\פרוייקט מחשבים\BattleShip\BattleShip\bin\Release\BattleShip.pdb
+D:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+D:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+D:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+D:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Instruction.resources
+D:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+D:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+D:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.exe
+D:\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\bin\Release\BattleShip.exe
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\bin\Release\BattleShip.pdb
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Documents and Settings\USER\שולחן העבודה\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\12.1.16\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\פרוייקט מחשבים רן אלישייב- BattleShip\BattleShip\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\BattleShip\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+C:\Users\Admin\Desktop\BattleShip\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+C:\Users\Admin\Desktop\BattleShip\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\BattleShip\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\BattleShip\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BattleShip\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\BattleShip\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\BattleShip\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\BattleShip\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Desktop\BattleShip2\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\BattleShip\BattleShip\obj\x86\Release\BattleShip.StartGame.resources
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Game2.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.StartGame.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\bin\Release\BattleShip.exe
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Game1.resources
+C:\Users\Admin\Desktop\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\רן אלישייב- פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Ranny Elyashiv\Documents\לימודים\פרוייקט מחשבים\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BattleShip\Program files\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\bin\Release\BattleShip.exe
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\bin\Release\BattleShip.pdb
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Documents and Settings\USER\שולחן העבודה\רן אליישיב\Program files\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\פרויקט מחשבים-תיקון מורה\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.exe
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.pdb
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Documents and Settings\user14\שולחן העבודה\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\פרוייקט-רן אלישייב\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\17.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\24.5.2016\פרויקט מחשבים\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\bin\Release\BattleShip.exe
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\bin\Release\BattleShip.pdb
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Documents and Settings\USER\שולחן העבודה\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.Win.resources
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\רן אלישיב\Program Files\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Admin\Desktop\רן אלישייב\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.pdb
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\bin\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\bin\Release\BattleShip.pdb
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Form1.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Game.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Instructions.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.Properties.Resources.resources
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.exe
+C:\Users\Ranny Elyashiv\Documents\לימודים\מחשבים\פרוייקט מחשבים\רן אלישייב - פרוייקט סופי\206483828\Program Files\BattleShip\obj\x86\Release\BattleShip.pdb
